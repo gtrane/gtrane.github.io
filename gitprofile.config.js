@@ -22,14 +22,16 @@ const config = {
     'Python',
     'Jupyter Notebooks',
     'SQL',
+    'Power BI',
     'Tableau',
-    'Visual Basic',
-    'Alteryx',
+    'Data Warehousing',
     'Text Analytics',
     'Data Mining',
     'Machine Learning',
     'Data Science',
     'Business Communication',
+    'Visual Basic',
+    'Alteryx'
   ],
 
   education: [
