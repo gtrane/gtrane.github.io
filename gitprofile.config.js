@@ -12,7 +12,7 @@ const config = {
   },
   social: {
     linkedin: 'grace-trane',
-    email: 'grace-trane@uiowa.edu',
+    email: 'gracetrane@gmail.com',
   },
   resume: {
     fileUrl:
